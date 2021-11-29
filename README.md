@@ -1,3 +1,3 @@
 # Curso Git
 
-Curso Git & Guthub Mastermind 
+Curso Git & Github Mastermind 
